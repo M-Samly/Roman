@@ -11,7 +11,7 @@ class Roman {
         //print output
         System.out.println(out+ " : "+tot);
     }
-    //kjkj
+    //methods
     //create new method
     static int calculate(String out){
         //total initiate
