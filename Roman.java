@@ -12,7 +12,7 @@ class Roman {
         // method call
         int total = calInteger(roman); 
         // print final value
-        System.out.println("Integer : " + total); 
+        System.out.println("Integer value : " + total); 
 
     }
     
